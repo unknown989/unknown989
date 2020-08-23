@@ -3,8 +3,8 @@
 I'm a python and web Developer , currently i'm working on a big project with many awesome poeple from UBUCON
 
 ## Experiences
-* almost 1 year experience of python
-* 3 year of web development
+i'll make it short
+* more than 3 years of programming
 
 ## Contact-me
 
