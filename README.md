@@ -1,7 +1,6 @@
 <p align=center><img width=200 height=200 src="images/logo.png" /></p>
-<br>
 ## Who am i .
-I'm a <mark>python</mark> and <mark>web</mark> Developer , currently i'm working on a big project with many awesome poeple from <mark>UBUCON</mark>
+I'm a <span style="background-color:yellow">python</span> and <mark>web</mark> Developer , currently i'm working on a big project with many awesome poeple from <mark>UBUCON</mark>
 
 ## Experiences
 i'll make it short
