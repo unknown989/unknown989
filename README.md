@@ -1,4 +1,4 @@
-![Algorithm schema](./images/logo.png)
+<div style="text-align:center"><img src="images/logo.png" /></div>
 ## Who am i .
 I'm a python and web Developer , currently i'm working on a big project with many awesome poeple from UBUCON
 
