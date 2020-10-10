@@ -1,5 +1,6 @@
 <p align=center><img width=200 height=200 src="images/logo.png" /></p>
-## Who am i .
+
+## Who am i
 I'm a python and web Developer , currently i'm working on a big project with many awesome poeple from UBUCON
 
 ## Experiences
