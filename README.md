@@ -1,7 +1,7 @@
-<p align=center><img width=200 height=200 src="images/logo.png" /></p>
+<p align=center><img width=200 height=200 src="images/download.png" /></p>
 
 ## Who am i
-I'm a python and web Developer , currently i'm working on a big project with many awesome poeple from UBUCON
+I'm a python & c++ and web Developer , currently i'm working on personal projects
 
 ## Experiences
 i'll make it short
