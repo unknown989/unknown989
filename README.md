@@ -1,4 +1,4 @@
-<p align=center><img width=200 height=200 src="images/download.png" /></p>
+<p align=center><img width=200 height=200 src="images/logo.png" /></p>
 
 ## Who am i
 I'm a python & c++ and web Developer , currently i'm working on personal projects
