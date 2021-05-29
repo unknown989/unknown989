@@ -10,6 +10,6 @@ i'll make it short
 ## Contact-me
 
 E-mail : <a href="mailto:unknown989@protonmail.com">unknown989@protonmail.com</a>
+Website : <a href="https://unknown989.github.io/">unknown989</a>
 
-
-Have a good day and thanks for checking my profile
+Have a <b>good day</b> and thanks for checking my profile
