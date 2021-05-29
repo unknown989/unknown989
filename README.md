@@ -9,7 +9,7 @@ i'll make it short
 
 ## Contact-me
 
-<img src="https://www.nicepng.com/png/detail/90-903560_e-mail-png-pic-email-logo-icon-png.png" width=24 height=24> : <a href="mailto:unknown989@protonmail.com">unknown989@protonmail.com</a><br>
-<img src="http://www.newdesignfile.com/postpic/2015/12/website-icon_342655.png" width=24 height=24> : <a href="https://unknown989.github.io/">unknown989</a>
+<img src="http://www.pngall.com/wp-content/uploads/2/Email-PNG-Pic.png" width=16 height=16> : <a href="mailto:unknown989@protonmail.com">unknown989@protonmail.com</a><br>
+<img src="https://www.pinclipart.com/picdir/big/211-2116571_website-website-logo-png-transparent-background-clipart.png" width=16 height=16> : <a href="https://unknown989.github.io/">unknown989</a>
 
 Have a <b>good day</b> and thanks for checking my profile
