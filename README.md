@@ -7,6 +7,9 @@ I'm a <a target="_blank" href="https://github.com/unknown989?tab=repositories&q=
 i'll make it short
 * more than 4 years of programming
 
+## Summary
+![Brian's github stats](https://github-readme-stats.vercel.app/api?username=unknown989&count_private=true&show_icons=true&theme=default)
+
 ## Contact-me
 
 <img src="http://www.pngall.com/wp-content/uploads/2/Email-PNG-Photo.png" width=16 height=16> : <a target="_blank" href="mailto:unknown989@protonmail.com">unknown989@protonmail.com</a><br>
